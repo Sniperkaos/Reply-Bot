@@ -49,4 +49,4 @@ angel_bot.on('message', (message) => {
     }
 });
 angel_bot.on('error', console.error);
-angel_bot.login('NDc5NTQ5NjU3NTUxMjA4NDY3.Dla3WQ.bKm2KbOtca1kIS12KbujKL1TZpM')
+angel_bot.login('lol almost forgot to remove this')
